@@ -11,7 +11,7 @@ MST DRIVEについて詳しくは、https://meso.tokyo/works/drive をご参照�
 ## 注意
 
  * この回路図およびPCBファイルでは、[mst-kicad-lib](https://github.com/mesotokyo/mst-kicad-lib)に含まれている`ak_misc` footprint libraryを使用しています。
-  * この回路は、[voltboost2e](https://github.com/mesotokyo/mst-kicad-libw) DC-DCコンバータユニットと組み合わせて使用することを想定しています。
+  * この回路は、[voltboost2e](https://github.com/mesotokyo/voltboost2e) DC-DCコンバータユニットと組み合わせて使用することを想定しています。
 
 ## 免責事項
 

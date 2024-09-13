@@ -10,8 +10,8 @@ For more information about MST DRIVE, please check https://meso.tokyo/works/driv
 
 ## Notice
 
- * This schematic and PCB file need a `ak_misc` footprint library in [mst-kicad-lib](https://github.com/mesotokyo/mst-kicad-libw). 
- * It is assumed that this schematic will be used with [voltboost2e](https://github.com/mesotokyo/mst-kicad-libw) DC-DC converter unit.
+ * This schematic and PCB file need a `ak_misc` footprint library in [mst-kicad-lib](https://github.com/mesotokyo/mst-kicad-lib). 
+ * It is assumed that this schematic will be used with [voltboost2e](https://github.com/mesotokyo/voltboost2e) DC-DC converter unit.
 
 ## DISCLAIMER
 
